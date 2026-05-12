@@ -5,3 +5,5 @@ Pillow
 razorpay==1.4.1
 asgiref==3.8.1
 sqlparse==0.5.5
+setuptools
+wheel
